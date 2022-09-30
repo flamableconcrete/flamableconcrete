@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![flamableconcrete's GitHub stats](https://github-readme-stats.vercel.app/api?username=flamableconcrete&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flamableconcrete)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **flamableconcrete/flamableconcrete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
